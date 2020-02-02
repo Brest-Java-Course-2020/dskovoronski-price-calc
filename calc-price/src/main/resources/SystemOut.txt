@@ -1,0 +1,4 @@
+Please, input distance or Q for exit:
+Please, input price per km or Q for exit:
+Please, input weight or Q for exit:
+Please, input price per kg or Q for exit:
